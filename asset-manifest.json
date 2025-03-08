@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.563977de.css",
+    "main.js": "/portfolio/static/js/main.8e8c13a6.js",
+    "static/media/DigitalComputer.pdf": "/portfolio/static/media/DigitalComputer.fdc006784b7b6fead32f.pdf",
+    "static/media/UserExperience.pdf": "/portfolio/static/media/UserExperience.10cdc8af57b0990786ef.pdf",
+    "static/media/WebApplication.pdf": "/portfolio/static/media/WebApplication.5dc03db680a143074286.pdf",
+    "static/media/Database.pdf": "/portfolio/static/media/Database.17e7732b8d015c947290.pdf",
+    "static/media/traffic.jpg": "/portfolio/static/media/traffic.dad04dddff374bbf1fc2.jpg",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.63fcebb6fb7d97c8f46a.jpg",
+    "static/media/DataStructure.pdf": "/portfolio/static/media/DataStructure.913cb7bd5631c3800512.pdf",
+    "static/media/database.png": "/portfolio/static/media/database.31a15b86d36227574cf9.png",
+    "static/media/schoolicon.png": "/portfolio/static/media/schoolicon.2ed6c97df90bdc4411e1.png",
+    "static/media/c.png": "/portfolio/static/media/c.0433dd8ebff1a631bb42.png",
+    "static/media/data.png": "/portfolio/static/media/data.5288b778070aad01a862.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.64010f67574e86603dd0.pdf",
+    "static/media/leadership.jpg": "/portfolio/static/media/leadership.ada3e9bbee6779a9bafb.jpg",
+    "static/media/feedback.jpg": "/portfolio/static/media/feedback.f9af75ab2ec0700c0d89.jpg",
+    "static/media/teammanagement.jpg": "/portfolio/static/media/teammanagement.2d0fe17e1285dbcc138b.jpg",
+    "static/media/softwaredeveloper.jpg": "/portfolio/static/media/softwaredeveloper.7de541179e4c07c8f80e.jpg",
+    "static/media/carrental.jpg": "/portfolio/static/media/carrental.7d25cf46702450e0653e.jpg",
+    "static/media/projectmanagement.webp": "/portfolio/static/media/projectmanagement.1f5e8193c6113744c359.webp",
+    "static/media/career.jpg": "/portfolio/static/media/career.73b9477fd3cdf2100991.jpg",
+    "static/media/bank.jpg": "/portfolio/static/media/bank.b859a297a46353fa1747.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.563977de.css.map": "/portfolio/static/css/main.563977de.css.map",
+    "main.8e8c13a6.js.map": "/portfolio/static/js/main.8e8c13a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.563977de.css",
+    "static/js/main.8e8c13a6.js"
+  ]
+}
