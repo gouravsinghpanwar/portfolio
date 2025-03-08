@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.31ecb89f.css",
+    "main.css": "/portfolio/static/css/main.604caccd.css",
     "main.js": "/portfolio/static/js/main.d154efa5.js",
     "static/media/DigitalComputer.pdf": "/portfolio/static/media/DigitalComputer.fdc006784b7b6fead32f.pdf",
     "static/media/UserExperience.pdf": "/portfolio/static/media/UserExperience.10cdc8af57b0990786ef.pdf",
@@ -23,11 +23,11 @@
     "static/media/career.jpg": "/portfolio/static/media/career.73b9477fd3cdf2100991.jpg",
     "static/media/bank.jpg": "/portfolio/static/media/bank.b859a297a46353fa1747.jpg",
     "index.html": "/portfolio/index.html",
-    "main.31ecb89f.css.map": "/portfolio/static/css/main.31ecb89f.css.map",
+    "main.604caccd.css.map": "/portfolio/static/css/main.604caccd.css.map",
     "main.d154efa5.js.map": "/portfolio/static/js/main.d154efa5.js.map"
   },
   "entrypoints": [
-    "static/css/main.31ecb89f.css",
+    "static/css/main.604caccd.css",
     "static/js/main.d154efa5.js"
   ]
 }
