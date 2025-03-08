@@ -1,0 +1,64 @@
+.header {
+  background-color: #f4f4f4;
+  padding: 1rem 10%;
+  width: 100%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+
+.header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 6rem;
+}
+
+.header li {
+  margin: 0;
+}
+
+.header a {
+  color: black;
+  text-decoration: none;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  background-color: #e0e0e0;
+  transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.header a:hover {
+  color: #1bb2dc;
+  background-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+.header a.active {
+  color: #1bb2dc;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.header .download-button {
+  background-color: #1bb2dc;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.header .download-button:hover {
+  background-color: #0a8bbd;
+  transform: translateY(-2px);
+}

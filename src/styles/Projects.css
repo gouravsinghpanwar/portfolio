@@ -1,0 +1,68 @@
+.projects {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.projects h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 2rem; /* Added margin for spacing */
+}
+
+.project-list {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping of items */
+    justify-content: center; /* Center the items */
+    margin-top: 1rem;
+}
+
+.project {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 30%; /* Adjust width to fit three boxes in a row */
+    margin: 1rem; /* Added margin for spacing */
+    transition: transform 0.3s; /* Smooth transition for hover effect */
+    border: 1px solid #ddd; /* Border for the project box */
+}
+
+.project:hover {
+    transform: scale(1.05); /* Scale effect on hover */
+}
+
+.image-container {
+    border: 2px solid #ddd; /* Border for the image container */
+    border-radius: 5px;
+    overflow: hidden; /* Ensure the image doesn't overflow */
+    margin-bottom: 1rem; /* Space between image and text */
+}
+
+.image-container img {
+    width: 100%; /* Make image responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.project h3 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.project p {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* Additional styles for spacing */
+@media (max-width: 768px) {
+    .project {
+        width: 45%; /* Adjust width for smaller screens to fit two boxes in a row */
+    }
+}
+
+@media (max-width: 480px) {
+    .project {
+        width: 90%; /* Adjust width for mobile screens */
+    }
+}

@@ -1,0 +1,77 @@
+.skills {
+  padding: 2rem;
+  background-color: #e2e2e2;
+  text-align: center; /* Center text */
+}
+
+.skills h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1.5rem; /* Add some space below the heading */
+}
+
+.skills-container {
+  display: flex;
+  justify-content: center; /* Center the skills */
+  flex-wrap: wrap; /* Allow wrapping */
+  gap: 1rem; /* Space between skills */
+}
+
+.skill {
+  width: 80px; /* Set a fixed width */
+  height: 80px; /* Set a fixed height */
+  border: 2px solid #555; /* Border for the skill circles */
+  border-radius: 50%; /* Make it circular */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff; /* Background color for the circles */
+  transition: transform 0.3s; /* Smooth hover effect */
+}
+
+.skill img {
+  width: 60%; /* Adjust image size */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.skill:hover {
+  transform: scale(1.1); /* Scale up on hover */
+}
+
+.certificates-container {
+  display: flex;
+  justify-content: center; /* Center the certificates */
+  gap: 1rem; /* Space between certificates */
+  margin-top: 2rem; /* Space above certificates */
+}
+
+.certificate {
+  width: 200px; /* Set a fixed width for certificates */
+  text-align: center; /* Center text */
+  border: 2px solid #555; /* Border for the certificates */
+  padding: 1rem; /* Padding around the certificate */
+  transition: transform 0.3s; /* Smooth hover effect */
+}
+
+.certificate img {
+  width: 100%; /* Full width for the certificate image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.certificate:hover {
+  transform: scale(1.05); /* Scale up on hover */
+}
+
+button {
+  margin-top: 0.5rem; /* Space above the button */
+  padding: 0.5rem 1rem; /* Padding for the button */
+  background-color: #007bff; /* Button color */
+  color: white; /* Text color */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker button color on hover */
+}
